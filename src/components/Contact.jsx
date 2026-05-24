@@ -47,7 +47,7 @@ export default function Contact() {
 
           <div className="mt-8 space-y-4">
             <p className="flex items-center gap-3 text-slate-300">
-              <Mail className="text-emerald-300" /> agrismartai@example.com
+              <Mail className="text-emerald-300" /> agrismartai24@gmail.com
             </p>
 
             <p className="flex items-center gap-3 text-slate-300">
