@@ -3,7 +3,7 @@ import Hero from "./components/Hero";
 import AboutAI from "./components/AboutAI";
 import Features from "./components/Features";
 import HowItWorks from "./components/HowItWorks";
-import Detection from "./components/Detection";
+import AIUpload from "./components/AIUpload";
 import Library from "./components/Library";
 import Impact from "./components/Impact";
 import Statistics from "./components/Statistics";
@@ -19,7 +19,7 @@ export default function App() {
       <AboutAI />
       <Features />
       <HowItWorks />
-      <Detection />
+      <AIUpload />
       <Library />
       <Impact />
       <Statistics />
